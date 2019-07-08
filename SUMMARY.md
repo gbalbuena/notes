@@ -8,6 +8,7 @@
 
 * [Game Development](technology/game-development/README.md)
   * [Phaser](technology/game-development/phaser.md)
+* [Javascript](technology/javascript.md)
 
 ## Dancing
 
