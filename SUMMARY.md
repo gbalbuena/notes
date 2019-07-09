@@ -7,6 +7,7 @@
 ## Technology
 
 * [Game Development](technology/game-development/README.md)
+  * [Assets](technology/game-development/assets.md)
   * [Phaser](technology/game-development/phaser.md)
 * [Javascript](technology/javascript.md)
 
