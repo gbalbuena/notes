@@ -4,9 +4,9 @@ description: Planned Performance Testing Email Sample Notification
 
 # Performance Testing
 
-This is a sample email to send to your hosting provider company, Security Operations center, network security group, system administrators or anyone else who may be impacted by your testing.  
+This is a sample email to send to your hosting provider company, Security Operations Center, network security group, system administrators or anyone else who may be impacted by your testing.  
   
-It is recommended that you give any concerned parties at least a 24 hours advanced notice.
+It is recommended that you give any concerned parties at least a 24 hours advanced notice and a non automatised confirmation
 
  
 
@@ -15,9 +15,11 @@ Please be advised that I will be conducting automated Security and performance t
 
 I will be testing using the following tools:
 
-1\) Tool 1 2\) Tool 2
+1. Tool A
+2. Tool B
 
-I will be testing from IP address . My target systems are .
+I will be testing from &lt;IP address&gt; . My target systems are &lt;Targets&gt;.
 
-Thank you,
+Thank you,  
+&lt;Name&gt;, &lt;Position&gt;
 

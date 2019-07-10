@@ -1,18 +1,22 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Email Templates](email-templates/README.md)
-  * [Performance Testing](email-templates/performance-testing.md)
 
 ## Technology
 
+* [Machine Learning](technology/machine-learning/README.md)
+  * [Natural Language Processing](technology/machine-learning/natural-language-processing.md)
 * [Game Development](technology/game-development/README.md)
   * [Frameworks](technology/game-development/frameworks.md)
   * [Assets](technology/game-development/assets.md)
 * [Javascript](technology/javascript.md)
+* [Processes](technology/processes/README.md)
+  * [Email Templates](technology/processes/email-templates/README.md)
+    * [Performance Testing](technology/processes/email-templates/performance-testing.md)
 
-## Dancing
+## Activities and Hobbies <a id="dancing"></a>
 
-* [Swing](dancing/swing.md)
-* [Salsa](dancing/salsa.md)
+* [Dancing](dancing/dancing/README.md)
+  * [Swing](dancing/dancing/swing.md)
+  * [Salsa](dancing/dancing/salsa.md)
 
