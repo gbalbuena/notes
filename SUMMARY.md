@@ -10,6 +10,7 @@
   * [Frameworks](technology/game-development/frameworks.md)
   * [Assets](technology/game-development/assets.md)
 * [Javascript](technology/javascript/README.md)
+  * [cli](technology/javascript/cli.md)
   * [Array](technology/javascript/array.md)
 * [Management](technology/processes/README.md)
   * [Email Templates](technology/processes/email-templates/README.md)
