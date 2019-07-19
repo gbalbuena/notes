@@ -5,11 +5,13 @@
 ## Technology
 
 * [Machine Learning](technology/machine-learning/README.md)
+  * [Performance Testing](technology/machine-learning/performance-testing.md)
   * [Natural Language Processing](technology/machine-learning/natural-language-processing.md)
 * [Game Development](technology/game-development/README.md)
   * [Frameworks](technology/game-development/frameworks.md)
   * [Assets](technology/game-development/assets.md)
 * [Javascript](technology/javascript/README.md)
+  * [Graphic library](technology/javascript/graphic-library.md)
   * [cli](technology/javascript/cli.md)
   * [Array](technology/javascript/array.md)
 * [Management](technology/processes/README.md)
