@@ -22,6 +22,9 @@
   * [Tips and Tricks](technology/docker/tips-and-tricks.md)
 * [Database](technology/database/README.md)
   * [CAP Theorem](technology/database/cap-theorem.md)
+* [Terminal](technology/terminal/README.md)
+  * [jq](technology/terminal/jq.md)
+  * [Bash](technology/terminal/bash.md)
 
 ## Activities and Hobbies <a id="dancing"></a>
 
