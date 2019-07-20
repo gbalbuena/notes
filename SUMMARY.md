@@ -31,4 +31,5 @@
 * [Dancing](dancing/dancing/README.md)
   * [Swing](dancing/dancing/swing.md)
   * [Salsa](dancing/dancing/salsa.md)
+* [Languages](dancing/languages.md)
 
