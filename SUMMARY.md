@@ -32,4 +32,5 @@
   * [Swing](dancing/dancing/swing.md)
   * [Salsa](dancing/dancing/salsa.md)
 * [Languages](dancing/languages.md)
+* [Bushcraft](dancing/bushcraft.md)
 
