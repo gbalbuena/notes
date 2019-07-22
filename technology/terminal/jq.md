@@ -1,5 +1,18 @@
 # jq
 
+## Key and values
+
+### Extract keys
+
+```bash
+echo '{ "a": 1, "b": 2, "c": 3 }' | jq keys
+[
+  "a",
+  "b",
+  "c"
+]
+```
+
 
 
 You can quickly create [filters](https://stedolan.github.io/jq/manual/#Basicfilters) to return a particular metric of the JSON file.
