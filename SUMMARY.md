@@ -4,6 +4,7 @@
 
 ## Technology
 
+* [Apps](technology/apps.md)
 * [Machine Learning](technology/machine-learning/README.md)
   * [Performance Testing](technology/machine-learning/performance-testing.md)
   * [Natural Language Processing](technology/machine-learning/natural-language-processing.md)
