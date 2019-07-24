@@ -5,8 +5,8 @@
 ## Technology
 
 * [Apps](technology/apps.md)
+* [Performance Testing](technology/performance-testing.md)
 * [Machine Learning](technology/machine-learning/README.md)
-  * [Performance Testing](technology/machine-learning/performance-testing.md)
   * [Natural Language Processing](technology/machine-learning/natural-language-processing.md)
 * [Game Development](technology/game-development/README.md)
   * [Frameworks](technology/game-development/frameworks.md)
@@ -26,6 +26,8 @@
 * [Terminal](technology/terminal/README.md)
   * [jq](technology/terminal/jq.md)
   * [Bash](technology/terminal/bash.md)
+* [AWS](technology/aws/README.md)
+  * [AWS Deepracer](technology/aws/aws-deepracer.md)
 
 ## Activities and Hobbies <a id="dancing"></a>
 
