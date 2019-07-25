@@ -37,3 +37,8 @@
 * [Languages](dancing/languages.md)
 * [Bushcraft](dancing/bushcraft.md)
 
+## Infrastructure
+
+* [Cluster/Orchestration Management](infrastructure/cluster-orchestration-management.md)
+* [Infrastructure as code \(iac\)](infrastructure/infrastructure-as-code-iac.md)
+
