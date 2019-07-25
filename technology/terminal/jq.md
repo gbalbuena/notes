@@ -4,14 +4,23 @@
 
 ### Extract keys
 
+Extract keys
+
 ```bash
-echo '{ "a": 1, "b": 2, "c": 3 }' | jq keys
+$ echo '{ "a": 1, "b": 2, "c": 3 }' | jq keys
 [
   "a",
   "b",
   "c"
 ]
+
+$ echo '{ "a": 1, "b": 2, "c": 3, "d": { "aaa": 11 } }' | jq '.d | keys'
+[
+  "aaa"
+]
 ```
+
+Demo: [https://jqplay.org/s/D3L0oGVSq3](https://jqplay.org/s/D3L0oGVSq3)
 
 
 
