@@ -3,5 +3,5 @@
 | Name | Providers |
 | :--- | :--- |
 | Terrafrom | Multiple |
-| CloudFormation | AWS |
+| CloudFormation | AW |
 
