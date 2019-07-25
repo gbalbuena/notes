@@ -28,6 +28,7 @@
   * [Bash](technology/terminal/bash.md)
 * [AWS](technology/aws/README.md)
   * [AWS Deepracer](technology/aws/aws-deepracer.md)
+* [Architecture](technology/architecture.md)
 
 ## Activities and Hobbies <a id="dancing"></a>
 
@@ -41,4 +42,5 @@
 
 * [Cluster/Orchestration Management](infrastructure/cluster-orchestration-management.md)
 * [Infrastructure as code \(iac\)](infrastructure/infrastructure-as-code-iac.md)
+* [References](infrastructure/references.md)
 
