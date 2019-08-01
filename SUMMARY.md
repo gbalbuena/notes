@@ -41,6 +41,8 @@
 ## Infrastructure
 
 * [Cluster/Orchestration Management](infrastructure/cluster-orchestration-management.md)
-* [Infrastructure as code \(iac\)](infrastructure/infrastructure-as-code-iac.md)
+* [Infrastructure as code \(iac\)](infrastructure/infrastructure-as-code-iac/README.md)
+  * [Terraform](infrastructure/infrastructure-as-code-iac/terraform/README.md)
+    * [Backend](infrastructure/infrastructure-as-code-iac/terraform/backend.md)
 * [References](infrastructure/references.md)
 
