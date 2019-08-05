@@ -29,6 +29,7 @@
 * [AWS](technology/aws/README.md)
   * [AWS Deepracer](technology/aws/aws-deepracer.md)
 * [Architecture](technology/architecture.md)
+* [Raspberry PI](technology/raspberry-pi.md)
 
 ## Activities and Hobbies <a id="dancing"></a>
 
