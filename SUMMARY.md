@@ -7,6 +7,7 @@
 * [Apps](technology/apps.md)
 * [Performance Testing](technology/performance-testing.md)
 * [Machine Learning](technology/machine-learning/README.md)
+  * [Association Rules](technology/machine-learning/association-rules.md)
   * [Natural Language Processing](technology/machine-learning/natural-language-processing.md)
 * [Game Development](technology/game-development/README.md)
   * [Frameworks](technology/game-development/frameworks.md)
@@ -30,6 +31,7 @@
   * [AWS Deepracer](technology/aws/aws-deepracer.md)
 * [Architecture](technology/architecture.md)
 * [Raspberry PI](technology/raspberry-pi.md)
+* [Databases](technology/databases.md)
 
 ## Activities and Hobbies <a id="dancing"></a>
 
