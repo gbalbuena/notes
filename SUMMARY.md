@@ -32,12 +32,10 @@
 * [Architecture](technology/architecture.md)
 * [Raspberry PI](technology/raspberry-pi.md)
 * [Databases](technology/databases.md)
+* [Practices](technology/practices.md)
 
 ## Activities and Hobbies <a id="dancing"></a>
 
-* [Dancing](dancing/dancing/README.md)
-  * [Swing](dancing/dancing/swing.md)
-  * [Salsa](dancing/dancing/salsa.md)
 * [Languages](dancing/languages.md)
 * [Bushcraft](dancing/bushcraft.md)
 * [Drawing](dancing/drawing.md)
